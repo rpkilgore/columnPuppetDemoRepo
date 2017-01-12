@@ -8,6 +8,8 @@ mod 'puppetlabs-stdlib', '4.14.0'
 mod 'puppetlabs-windows', '3.0.0'
 mod 'puppetlabs-registry', '1.1.3'
 mod 'puppetlabs-motd', '1.4.0'
+mod 'ncorrare-windowstime', '0.4.3'
+mod 'puppetlabs-ntp', '6.0.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
