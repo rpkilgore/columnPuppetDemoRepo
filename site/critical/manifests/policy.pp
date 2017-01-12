@@ -1,4 +1,4 @@
- class critical_policy {
+ class policy {
 
    registry::value { 'Legal notice caption':
      key   => 'HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System',
