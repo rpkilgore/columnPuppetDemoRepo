@@ -1,4 +1,4 @@
-class critical::policy {
+class critical_policy {
 
    registry::value { 'Legal notice caption':
      key   => 'HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System',
@@ -11,4 +11,4 @@ class critical::policy {
      value => 'legalnoticetext',
      data  => 'Login constitutes acceptance of the End User Agreement',
      }
-}
+  }
