@@ -12,6 +12,7 @@ mod 'ncorrare-windowstime', '0.4.3'
 mod 'puppetlabs-ntp', '6.0.0'
 mod 'puppetlabs-powershell', '2.1.0'
 mod 'puppetlabs-chocolatey', '2.0.1'
+mod 'puppetlabs-dism', '1.2.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
